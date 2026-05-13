@@ -2,8 +2,6 @@
 🌐 Personal portfolio website showcasing my projects, skills, and experience  as a Web Developer. Built with HTML5, CSS3, and JavaScript. Features my work  in React.js, Node.js, and REST API integration.  🔗 Live: https://voluble-rugelach-bfe991.netlify.app/
 # 🚀 Mohan Kushwaha — Developer Portfolio
 
-A full-stack personal portfolio web application built with **HTML5, CSS3, JavaScript, Node.js & Express**.  
-Live demo → [neon-lokum922b45.netlify.app](https://neon-lokum922b45.netlify.app)
 
 ---
 
