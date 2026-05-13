@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-web",
+  "version": "1.0.0",
+  "description": "Full Stack Portfolio Web Application",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.18.2",
+    "nodemailer": "^8.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
