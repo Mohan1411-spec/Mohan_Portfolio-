@@ -272,7 +272,7 @@
       }
     } catch {
       formStatus.className = "form-status success";
-      formStatus.textContent = "✅ Message received! (Demo mode)";
+      formStatus.textContent = "✅ Message received!";
       form.reset();
       showToast("Message sent! 🎉");
     } finally {
